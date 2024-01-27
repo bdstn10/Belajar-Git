@@ -1,3 +1,3 @@
 for (let i = 0; i < 10; i++) {
-    console.log("Helo World")   
+    console.log("Ini adalah update pada branch testing")   
 }
